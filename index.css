@@ -1,0 +1,55 @@
+body{
+    margin: 0;
+    border-color: #00ffff;
+}
+.menu{
+
+    
+    border: 1px solid;
+    position: sticky;
+    margin-bottom: 0%;
+    
+}
+
+li{
+    list-style: none;
+
+    display: inline;
+    margin-right: 5%;
+
+
+}
+ol{
+    text-align: center;
+    margin-top: 2%;
+}
+
+
+a{
+    text-decoration: none;
+    color: black;
+}
+header{
+    position: static;
+}
+div.section{
+    margin-top: 0%;
+
+}
+.contact :hover{
+    font-size: 20px;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+    
+    
+    
+}
+::placeholder{
+    color: #999;
+}
+form{
+    background-color: gray;
+    width: 20%;
+    padding: 5%;
+}
